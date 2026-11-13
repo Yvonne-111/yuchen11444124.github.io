@@ -1,0 +1,1 @@
+三步驟完成繳交準備：填入真實內容：將 index.html 內的經歷描述補充完整（確保每項超過 50 字）。   準備圖片：把大頭照 (profile.jpg) 與 3 張經歷佐證圖 (exp1.jpg, exp2.jpg, exp3.jpg) 壓縮後放入 image/ 資料夾。   上傳部署：推送到 GitHub 倉庫並開啟 GitHub Pages，確認網頁可正常瀏覽後，同時繳交至 i-learning 與填寫 Google 表單。
