@@ -95,8 +95,8 @@ body {
 }
 
 .hero-img-box {
-    width: 180px;
-    height: 140px;
+    width: 240px;   /* 將原本的 180px 調大 */
+    height: 300px;  /* 將原本的 140px 調大並改為直式比例 */
     background-color: #8C7A6B;
     display: flex;
     flex-direction: column;
